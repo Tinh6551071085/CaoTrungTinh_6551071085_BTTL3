@@ -1,0 +1,16 @@
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\bin\Debug\net10.0-windows\bI5.exe
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\bin\Debug\net10.0-windows\bI5.deps.json
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\bin\Debug\net10.0-windows\bI5.runtimeconfig.json
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\bin\Debug\net10.0-windows\bI5.dll
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\bin\Debug\net10.0-windows\bI5.pdb
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.Form1.resources
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.csproj.GenerateResource.cache
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.dll
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\refint\bI5.dll
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.pdb
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\bI5.genruntimeconfig.cache
+C:\Users\ADMIN\Downloads\CaoTrungTinh_6551071085_BTTL3\bI5\obj\Debug\net10.0-windows\ref\bI5.dll
